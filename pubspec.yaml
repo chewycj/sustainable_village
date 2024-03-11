@@ -1,0 +1,34 @@
+name: rayworld
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: 1.0.2
+  flame: 1.0.0-releasecandidate.15
+  tiledjsonreader: 1.0.4
+  animated_text_kit: ^4.2.2
+  flame_audio: ^1.0.0-rc.15
+  forge2d: ^0.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+      - assets/images/
+      - assets/audio/
+      - assets/gamemap_collision.json
+      - assets/friend_collision.json
+      - assets/sustainablegoods_collision.json
+      - assets/villagehead_collision.json

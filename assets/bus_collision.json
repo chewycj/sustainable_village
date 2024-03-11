@@ -1,0 +1,36 @@
+{ 
+         "objects":[
+                {
+                 "height":156,
+                 "id":63,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":152,
+                 "x":502,
+                 "y":286
+                }, 
+                {
+                 "height":178,
+                 "id":64,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":306,
+                 "x":1962,
+                 "y":786
+                }, 
+                {
+                 "height":220,
+                 "id":65,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":246,
+                 "x":342,
+                 "y":1856
+                }]
+}
